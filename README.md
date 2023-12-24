@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+# TicTacToe in React
 
+This project is one of many (hopefully) on my way of learning React. It is based on a following tutorial:
+
+https://react.dev/learn/tutorial-tic-tac-toe#building-the-board
+
+
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
