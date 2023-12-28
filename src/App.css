@@ -1,14 +1,11 @@
-body{
-  font-family: Arial;
-}
-
 .square {
   border: 1px outset rgb(0, 0, 3);
   background-color: rgb(160, 190, 235);
   height:50px;
   width:50px;
   cursor:pointer;
-  /* This may not be needed later on*/
-  margin-left: 5px;
-  margin-top: 5px;
+}
+
+.board-row {
+  height:50px;
 }
